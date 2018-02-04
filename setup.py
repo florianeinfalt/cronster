@@ -19,7 +19,7 @@ test_requirements = [
 
 setup(
     name='cronster',
-    version='0.1.0',
+    version='0.1.1',
     description='Crawl filesystems for crontab files and schedule jobs.',
     long_description=readme,
     url='https://github.com/florianeinfalt/cronster',
